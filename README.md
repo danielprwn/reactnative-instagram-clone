@@ -1,14 +1,11 @@
-# reactnative-instagram-clone
-React Native Instagram clone app. 
-
-Google Drive clone web app.
+# React Native Instagram clone app. 
 
 ✔ Instagram singup and singin pages.
 ✔ Viewing Instagram Likes.
 ✔ Likes posts.
 
 
-Technologies ✅ CSS ⚛ React Native ✅ Firebase ✅ Expo
+## Technologies ✅ CSS ⚛ React Native ✅ Firebase ✅ Expo
 
 Download the repository and run it locally:
 
